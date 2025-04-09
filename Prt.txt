@@ -1,0 +1,4 @@
+# Prompts
+
+### BARRE DE RECHERCHE
+Je veux faire un component barre de recherche, celle ci permet de chercher avec du texte parmis tous les champions disponible dans l'API league of legends (afin de toujours etre a jour), il faut que les résultats les plus relevant s'affichent en dessous de la box au fur et a mesure, un peu comme sur google
